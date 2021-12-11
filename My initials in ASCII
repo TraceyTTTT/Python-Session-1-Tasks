@@ -1,0 +1,53 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPMxvs/4w3gCu8VweLB7CdU",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/TraceyTTTT/Python-Session-1-Tasks/blob/main/My%20initials%20in%20ASCII\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "EgQlVU62atoW"
+      },
+      "outputs": [],
+      "source": [
+        "#Tracey Asante\n",
+        "#I sing in a choir.\n",
+        "name = \"\"\"\n",
+        " T T T T T     A\n",
+        "    T        A   A\n",
+        "    T       A     A\n",
+        "    T      A A A A A\n",
+        "    T      A       A \n",
+        "    T      A       A \n",
+        "    T      A       A\n",
+        "\"\"\"\n",
+        "print(name)"
+      ]
+    }
+  ]
+}
